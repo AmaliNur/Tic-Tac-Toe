@@ -84,6 +84,7 @@ class Game {
             check_draw();
             if (isDraw) {
                 System.out.println("Ничья !");
+                drawDesk();
                 break;
             }
 
