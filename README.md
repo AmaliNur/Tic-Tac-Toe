@@ -2,20 +2,21 @@
 
 Поле для игры
 
-![image](https://github.com/user-attachments/assets/1147aa74-9711-4cfc-82c3-71a1f42a9f4e)
+![image](https://github.com/user-attachments/assets/5f1e95ec-fbbe-4f89-b6ff-80b43fecd21c)
 
 Функционал ходов в игре
 
-![image](https://github.com/user-attachments/assets/c61b47a0-3002-4137-a671-2003198b607f)
+![image](https://github.com/user-attachments/assets/ffef9067-e9d4-42b1-b3d3-47eff1eee3c1)
 
 Проверка на корректность ввода
 
-![image](https://github.com/user-attachments/assets/862b0373-76a2-4e6f-80c5-9b07364c08df)
+![image](https://github.com/user-attachments/assets/0f32cec3-3fc7-4b95-890e-e630e77b68ad)
 
 Победа в игре
 
-![image](https://github.com/user-attachments/assets/6b28fc1b-9dd4-4f45-98dc-ab224599cb9f)
+![image](https://github.com/user-attachments/assets/32696a39-9552-4a25-86f1-539a2a475d79)
 
 Ничья в игре
 
-![image](https://github.com/user-attachments/assets/b1dbc94e-4ae2-4a6d-bafc-5a1e8ff4b7d7)
+![image](https://github.com/user-attachments/assets/2360ca01-d74b-480c-bfd8-67ca6ec0cd65)
+
